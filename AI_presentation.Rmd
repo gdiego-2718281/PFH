@@ -677,7 +677,7 @@ knitr::include_graphics("img/amanita-phalloides.webp")
 
 .panel[.panel-name[H isquémica]
 
-- hipotensión prolongada (shock séptico o hipovolémico), o IC probremente controlada &rarr; estado de bajo gasto &rarr; regulación del flujo (cerebral, miocárdico y renal) &rarr; **autotransfusión** (sustracción volemia territorio esplacnico) &rarr; hipoxia,necrosis hepatocelular &rarr; elevación muy marcada (x 50 ULN) AST y ALT
+- hipotensión prolongada (shock séptico o hipovolémico), o IC probremente controlada &rarr; estado de bajo gasto &rarr; regulación del flujo (cerebral, miocárdico y renal) &rarr; **autotransfusión** (sustracción volemia territorio esplácnico) &rarr; hipoxia, necrosis hepatocelular &rarr; elevación muy marcada (x 50 ULN) AST y ALT
 
 - frecuente acompañada de ictericia, deterioro de la función hepatocelular e hipoglucemia
 
@@ -1815,3 +1815,4 @@ Slides created via the R package [**xaringan**](https://github.com/yihui/xaringa
 The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yihui.org/knitr/), and [R Markdown](https://rmarkdown.rstudio.com).
 
 `r fontawesome::fa("envelope")` franciscojose.gonzalez@scsalud.es
+

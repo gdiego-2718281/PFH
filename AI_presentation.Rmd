@@ -28,6 +28,11 @@ background-size: cover
 library(xaringanExtra)
 style_panelset_tabs(foreground= "honeydew", background = "seagreen")
 ```
+```{r knit, include=FALSE}
+library(knitr)
+
+
+```
 
 
 ```{r xaringanthemer, include=FALSE}
@@ -67,12 +72,15 @@ xaringanExtra::use_panelset()
 
 class: inverse
 
+
 ### *En atención primaria*
+----
 - hallazgo casual en un paciente asintomático o que consulta por síntomas banales/inespecíficos
 
  ~8-10% de los análisis rutinarios realizados
  
 ### *En el ámbito hospitalario*
+----
 - a menudo aparecen en el contexto de condiciones clínicas bien definidas
  
 .right[
@@ -93,6 +101,7 @@ routine laboratory test $\rightarrow$ detection of asymptomatic-stage liver dist
 class: inverse
 
 # Epidemiología de la enfermedad hepática
+----
 .yellow[
 
 .pull-left[
@@ -129,6 +138,7 @@ class: inverse
 class: inverse
 
 # Objetivos
+----
 
 ## `r fontawesome::fa("circle-chevron-right", fill = "red", height = "1.5em")`interpretar las anomalías más frecuentemente observadas en el perfil hepático
 
@@ -143,8 +153,10 @@ class: inverse
 background-image: url(img/mind.jpg)
 background-size: cover
 
+
+
 .bg-red.br4.pa2[
-# qué entendemos por pruebas hepáticas (PFH) alteradas</mark></h1>
+# qué entendemos por pruebas hepáticas (PFH) alteradas
 ]
 
 
@@ -438,6 +450,7 @@ template: caso
 ---
 
 # Resultados de los tests
+----
 
 
 ![](img/test.png)
@@ -666,12 +679,21 @@ Incluye
   - tóxicos industriales (cloruro de vinilo)
   - amatoxinas (en la **Amanita phalloides**)
   
-```{r amanita, echo=FALSE, out.width="50%",fig.align="right"}
-knitr::include_graphics("img/amanita-phalloides.webp")
-```
+.right[
+![:scale 35%](https://monplaneta.cat/app/uploads/sites/20/2023/05/1440px-amanita_phalloides_130831w-1440x1080.webp)
+]
 ]
 
 .panel[.panel-name[H -OH]
+
+- no suele cursar con una elevación marcada de la actividad aminotransferasa (AST rara vez > 300UI/L)
+- no es infrecuente (dolor en hipocondrio derecho, fiebre 38-38.5ºC y leucocitosis 75%) &rarr; diagnóstico diferencial con **colangitis secundaria a litiasis coledocal**
+
+- .bg-light-pink[apoya el dx de hepatitis alcohólica:]
+  - relación AST/ALT al menos 2:1 (_en H víricas o toxicomedicamentosas, la ALT suele ser superior a la AST_)
+  - elevación marcada de GGT (de valor según contexto)
+  - elevación de VCM (expresión de déficit de ac fólico)
+
 
 ]
 
@@ -689,17 +711,46 @@ knitr::include_graphics("img/amanita-phalloides.webp")
 
 .panel[.panel-name[H autoinmune]
 
+- infrecuente
+- afecta especialmente a las mujeres
+- su dx exige un alto índice de sospecha, se fundamenta en:
+  - marcada hipergammaglobulinemia
+  - autoanticuerpos (ANA, ASMA, anti-LKM1; anti-LC1)
+  - exclusión de otras etiologías
+  
+.bg-light-pink[Siempre considerar ante un cuadro de H fulminante en el que no se identifican marcadores virales, fármacos o toxinas.]
+
 ]
 
 .panel[.panel-name[enf Wilson]
+
+La probabilidad de su dx aumenta en:
+
+- enfermos de <40 años
+- anemia hemolítica asociada
+
+Algunos casos evolucionan a Insuficiencia Hepática Aguda Grave (IHAG).
 
 ]
 
 .panel[.panel-name[colangitis aguda]
 
+La impactación brusca de un cálculo en el colédoco distal &rarr; incremento presión endoluminal en vías biliares
+  - elevación enzimas de colestasis (FA y GGT)
+  - incremento de permeabilidad de la membrana de los hepatocitos (escape de enzimas intrahepatocitarios, AST-ALT)
+    - sobre todo si existe componente colangítico asociado
+    - elevaciones transitorias (x10-25 ULN)
+    - se normalizan tras resolverse el episodio
+
 ]
 
 ]
+
+???
+```{r amanita, echo=FALSE, out.width="50%",fig.align="right"}
+knitr::include_graphics("img/amanita-phalloides.webp")
+```
+
 
 ---
 
@@ -1815,4 +1866,3 @@ Slides created via the R package [**xaringan**](https://github.com/yihui/xaringa
 The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yihui.org/knitr/), and [R Markdown](https://rmarkdown.rstudio.com).
 
 `r fontawesome::fa("envelope")` franciscojose.gonzalez@scsalud.es
-

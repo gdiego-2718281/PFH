@@ -504,69 +504,52 @@ class: inverse
 ]
 
 ???
-La historia clínica constituye, sin duda, la parte más 
-importante en la evaluación del paciente con pruebas hepáticas alteradas2
-. De hecho, la investigación 
-de estos pacientes debe iniciarse con una anamnesis exhaustiva (tabla 2). Mención especial requieren las siguientes consideraciones:
-❱ La edad y sexo del enfermo. Algunas entidades, como la hepatitis aguda de etiología vírica o autoinmune o la propia enfermedad de Wilson, son más frecuentes en pacientes de menos de 30 años. Otras, como la colestasis que acompaña a la obstrucción del colédoco por litiasis o cáncer de la región ampular, suelen incidir en edades más avanzadas. La cirrosis biliar primaria es mucho más frecuente en la mujer. Otras 
-enfermedades causantes de colestasis crónica, 
-como la colangitis esclerosante primaria, inciden con mayor frecuencia en el sexo masculino.
-❱ Hábitos tóxicos y/o conductas de riesgo. El consu￾mo crónico de alcohol se halla implicado en una 
-proporción importante de pacientes en los que 
-se detectan anomalías biológicas que reflejan 
-daño necroinflamatorio hepático. Un consumo 
-diario de 60-80 g de alcohol en el varón y de 20-
-40 g en la mujer durante un período de 10-12 
-años puede ser suficiente para producir un daño 
-hepático irreversible. Igualmente importante es 
-interrogar al paciente acerca del consumo ilícito 
-de drogas por vía endovenosa o intranasal, así 
-como del antecedente de promiscuidad sexual, 
-a menudo implicados en la transmisión de virus 
-hepatotropos.
-❱ Profesión u ocupación. Es importante consignar 
-cualquier detalle que pueda proporcionar pis￾tas en relación con posible toxicidad derivada 
-del contacto con metales pesados, tetracloruro 
-de carbono o disolventes orgánicos, a menudo 
-implicados en la etiopatogenia de las hepatitis 
-tóxicas.
-❱ Antecedentes médico-quirúrgicos. El antecedente de transfusión de sangre o hemoderivados, 
-hemodiálisis, así como los antecedentes de pro￾cedimientos quirúrgicos o endoscópicos, acupuntura, piercing o tatuajes a menudo se hallan 
-implicados en la inoculación de virus causantes 
-de hepatitis crónica. Particular interés tiene el 
-conocimiento de enfermedades metabólicas. La 
-obesidad y la diabetes, por ejemplo, son encon￾tradas con frecuencia en el enfermo con esteatohepatitis no alcohólica (EHNA). La disfunción tiroidea o la insuficiencia suprarrenal pueden, a su vez, explicar una elevación de transaminasas 
-en el suero. La anamnesis debe consignar igual￾mente el padecimiento de cualquier enfermedad de naturaleza infecciosa o hematológica, miopatías o conectivopatías, así como la existencia de insuficiencia cardiaca. El conocimiento de cualquiera de estas entidades debería centrar la atención del clínico sobre una posible relación 
-patogénica entre la enfermedad sistémica y las alteraciones biológicas detectadas (figs. 1 y 2). Deben incluirse en este apartado las enfermeda￾des autoinmunes, dada la frecuente asociación entre este tipo de entidades.
-❱ Fármacos. El listado de fármacos capaces de provocar alteraciones en las pruebas de “función hepática” es muy amplio y casi la práctica totalidad de los mismos puede alterar la biología hepática, bien sea por un mecanismo de toxicidad directa (dosis dependiente) o por un mecanismo de hipersensibilidad o idiosincrasia 
-metabólica (dosis independiente). Es muy importante, por tanto, reflejar en el expediente clínico del enfermo cualquier medicamento de uso frecuente o continuado, especificando el momento en que se inició la toma del fármaco, la dosis, principio activo y vía de administración. En este apartado deben incluirse los productos 
-de herboristería, cuya “inocuidad” debe ser cuestionada dada la creciente incidencia de casos de hepatotoxicidad, a menudo grave, comunicados en la literatura médica 
-❱ Síntomas asociados. La presencia de determina￾dos síntomas puede proporcionar claves importantes para la orientación diagnóstica. Así, la 
-aparición de artromialgias o de un rush cutáneo 
-que precede a un cuadro de ictericia debe sugerir hepatitis vírica o tóxico-medicamentosa. Sin 
-embargo, cuando la ictericia viene precedida de 
-dolor de instauración aguda en el hipocondrio 
-derecho, fiebre y escalofríos, el diagnóstico de 
+La historia clínica constituye, sin duda, la parte más importante en la evaluación del paciente con pruebas hepáticas alteradas2. 
+De hecho, la investigación de estos pacientes debe iniciarse con una anamnesis exhaustiva (tabla 2). 
+
+Mención especial requieren las siguientes *consideraciones*:
+
+- La edad y sexo del enfermo. 
+   - Algunas entidades, como la hepatitis aguda de etiología vírica o autoinmune o la propia enfermedad de Wilson, son más frecuentes en pacientes de menos de 30 años.          - Otras, como la colestasis que acompaña a la obstrucción del colédoco por litiasis o cáncer de la región ampular, suelen incidir en edades más avanzadas. 
+   - La cirrosis biliar primaria es mucho más frecuente en la mujer. 
+   - Otras enfermedades causantes de colestasis crónica, como la colangitis esclerosante primaria, inciden con mayor frecuencia en el sexo masculino.
+
+- Hábitos tóxicos y/o conductas de riesgo. 
+   - El consu￾mo crónico de alcohol se halla implicado en una proporción importante de pacientes en los que se detectan anomalías biológicas que reflejan 
+daño necroinflamatorio hepático. 
+      - Un consumo diario de 60-80 g de alcohol en el varón y de 20-40 g en la mujer durante un período de 10-12 años puede ser suficiente para producir un daño 
+hepático irreversible. 
+   - Igualmente importante es interrogar al paciente acerca del consumo ilícito de drogas por vía endovenosa o intranasal, 
+   - así como del antecedente de promiscuidad sexual, a menudo implicados en la transmisión de virus hepatotropos.
+
+- Profesión u ocupación. 
+   - Es importante consignar cualquier detalle que pueda proporcionar pistas en relación con posible toxicidad derivada del contacto con metales pesados, tetracloruro 
+de carbono o disolventes orgánicos, a menudo implicados en la etiopatogenia de las hepatitis tóxicas.
+
+- Antecedentes médico-quirúrgicos. 
+   - El antecedente de transfusión de sangre o hemoderivados,hemodiálisis, así como los antecedentes de pro￾cedimientos quirúrgicos o endoscópicos, acupuntura, piercing o tatuajes a menudo se hallan implicados en la inoculación de virus causantes de hepatitis crónica. 
+   - Particular interés tiene el conocimiento de enfermedades metabólicas. La obesidad y la diabetes, por ejemplo, son encontradas con frecuencia en el enfermo con esteatohepatitis no alcohólica (EHNA). La disfunción tiroidea o la insuficiencia suprarrenal pueden, a su vez, explicar una elevación de transaminasas 
+en el suero. La anamnesis debe consignar igualmente el padecimiento de cualquier enfermedad de naturaleza infecciosa o hematológica, miopatías o conectivopatías, así como la existencia de insuficiencia cardiaca. El conocimiento de cualquiera de estas entidades debería centrar la atención del clínico sobre una posible relación 
+patogénica entre la enfermedad sistémica y las alteraciones biológicas detectadas. Deben incluirse en este apartado las enfermeda￾des autoinmunes, dada la frecuente asociación entre este tipo de entidades.
+
+- <h3>Fármacos</h3>. El listado de fármacos capaces de provocar alteraciones en las pruebas de “función hepática” es muy amplio y casi la práctica totalidad de los mismos puede alterar la biología hepática, 
+   - bien sea por un mecanismo de toxicidad directa (dosis dependiente) o 
+   - por un mecanismo de hipersensibilidad o idiosincrasia metabólica (dosis independiente). 
+   - Es muy importante, por tanto, reflejar en el expediente clínico del enfermo cualquier medicamento de uso frecuente o continuado, especificando el momento en que se inició la toma del fármaco, la dosis, principio activo y vía de administración. 
+   - En este apartado deben incluirse los productos de herboristería, cuya “inocuidad” debe ser cuestionada dada la creciente incidencia de casos de hepatotoxicidad, a menudo grave, comunicados en la literatura médica 
+
+- **Síntomas asociados**. La presencia de determinados síntomas puede proporcionar claves importantes para la orientación diagnóstica. 
+   - Así, la aparición de artromialgias o de un rush cutáneo que precede a un cuadro de ictericia debe sugerir hepatitis vírica o tóxico-medicamentosa. 
+   - Sin embargo, cuando la ictericia viene precedida de dolor de instauración aguda en el hipocondrio derecho, fiebre y escalofríos, el diagnóstico de 
 mayor probabilidad es la colangitis aguda secundaria a la presencia de una litiasis coledocal. 
-La presencia de anorexia es característica de los 
-estados necroinflamatorios de evolución aguda, 
-incluyendo la hepatitis viral, medicamentosa o 
-alcohólica. Cuando la anorexia se asocia a una 
-pérdida de peso significativa, el diagnóstico su￾gerido es el de un proceso neoplásico que asienta en el propio hígado (por ej., hepatocarcinoma 
-injertado sobre una hepatopatía crónica), en las 
-vías biliares (por ej., colangiocarcinoma) o en 
-el páncreas. En el último caso el perfil hepático 
-alterado suele reflejar una reducción del flujo 
-biliar debido a la presencia de un obstáculo que 
-impide la llegada de bilis al duodeno. La fiebre 
-es un signo que limita el espectro de posibilida￾des diagnósticas. Ya se ha mencionado la impor￾tancia de este signo en la sospecha de colangitis 
-secundaria a coledocolitiasis, un problema cuya 
-incidencia ha experimentado un crecimiento 
-exponencial en la última década, particular￾mente entre ancianos con o sin antecedentes de colecistectomía. La aparición de fiebre de 
-bajo grado es común en la hepatitis aguda de etiología vírica o alcohólica, en el hepatocarcinoma y en una miscelánea de enfermedades sistémicas que pueden originar granulomas en el hígado, tanto en el enfermo inmunocompetente, como en el huésped inmunodeprimido (por ej., sarcoidosis, tuberculosis, fiebre Q, linfoma). La historia clínica debe reflejar, a su vez, cualquier cambio de coloración de la orina o de 
-las heces. La presencia de coluria o de acolia (o hipocolia) refleja, por regla general, la existencia de una colestasis (figs. 3 y 4). Discernir su origen 
-intra o extrahepático tiene una importancia crucial (veáse más adelante). Mención especial tiene la existencia de prurito, un síntoma que debe sugerir colestasis de curso prolongado (por ej., cirrosis biliar primaria o colangitis esclerosante), 
-colestasis propia del embarazo (tercer trimestre) o inducida por fármacos (por ej., anovulatorios). 
+   - La presencia de anorexia es característica de los estados necroinflamatorios de evolución aguda, incluyendo la hepatitis viral, medicamentosa o 
+alcohólica. 
+   - Cuando la anorexia se asocia a una pérdida de peso significativa, el diagnóstico sugerido es el de un proceso neoplásico que asienta en el propio hígado (por ej., hepatocarcinoma injertado sobre una hepatopatía crónica), en las vías biliares (por ej., colangiocarcinoma) o en el páncreas. En el último caso el perfil hepático 
+alterado suele reflejar una reducción del flujo biliar debido a la presencia de un obstáculo que impide la llegada de bilis al duodeno. 
+   - La fiebre es un signo que limita el espectro de posibilidades diagnósticas. Ya se ha mencionado la importancia de este signo en la sospecha de colangitis 
+secundaria a coledocolitiasis, un problema cuya incidencia ha experimentado un crecimiento exponencial en la última década, particularmente entre ancianos con o sin antecedentes de colecistectomía. La aparición de fiebre de bajo grado es común en la hepatitis aguda de etiología vírica o alcohólica, en el hepatocarcinoma y en una miscelánea de enfermedades sistémicas que pueden originar granulomas en el hígado, tanto en el enfermo inmunocompetente, como en el huésped inmunodeprimido (por ej., sarcoidosis, tuberculosis, fiebre Q, linfoma). 
+   - La historia clínica debe reflejar, a su vez, cualquier cambio de coloración de la orina o de las heces. La presencia de coluria o de acolia (o hipocolia) refleja, por regla general, la existencia de una colestasis (figs. 3 y 4). Discernir su origen intra o extrahepático tiene una importancia crucial (veáse más adelante). 
+   - Mención especial tiene la existencia de prurito, un síntoma que debe sugerir colestasis de curso prolongado (por ej., cirrosis biliar primaria o colangitis esclerosante), colestasis propia del embarazo (tercer trimestre) o inducida por fármacos (por ej., anovulatorios). 
 El prurito puede aparecer en el paciente con enfermedad de Hodgkin con repercusión hepática por un mecanismo distinto de la colestasis.
 
 

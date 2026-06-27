@@ -505,7 +505,7 @@ class: inverse
 
 ???
 La historia clínica constituye, sin duda, la parte más importante en la evaluación del paciente con pruebas hepáticas alteradas2. 
-De hecho, la investigación de estos pacientes debe iniciarse con una anamnesis exhaustiva (tabla 2). 
+De hecho, la investigación de estos pacientes debe iniciarse con una anamnesis exhaustiva. 
 
 Mención especial requieren las siguientes *consideraciones*:
 
@@ -515,7 +515,7 @@ Mención especial requieren las siguientes *consideraciones*:
    - Otras enfermedades causantes de colestasis crónica, como la colangitis esclerosante primaria, inciden con mayor frecuencia en el sexo masculino.
 
 - Hábitos tóxicos y/o conductas de riesgo. 
-   - El consu￾mo crónico de alcohol se halla implicado en una proporción importante de pacientes en los que se detectan anomalías biológicas que reflejan 
+   - El consumo crónico de alcohol se halla implicado en una proporción importante de pacientes en los que se detectan anomalías biológicas que reflejan 
 daño necroinflamatorio hepático. 
       - Un consumo diario de 60-80 g de alcohol en el varón y de 20-40 g en la mujer durante un período de 10-12 años puede ser suficiente para producir un daño 
 hepático irreversible. 
@@ -528,8 +528,12 @@ de carbono o disolventes orgánicos, a menudo implicados en la etiopatogenia de 
 
 - Antecedentes médico-quirúrgicos. 
    - El antecedente de transfusión de sangre o hemoderivados,hemodiálisis, así como los antecedentes de pro￾cedimientos quirúrgicos o endoscópicos, acupuntura, piercing o tatuajes a menudo se hallan implicados en la inoculación de virus causantes de hepatitis crónica. 
-   - Particular interés tiene el conocimiento de enfermedades metabólicas. La obesidad y la diabetes, por ejemplo, son encontradas con frecuencia en el enfermo con esteatohepatitis no alcohólica (EHNA). La disfunción tiroidea o la insuficiencia suprarrenal pueden, a su vez, explicar una elevación de transaminasas 
-en el suero. La anamnesis debe consignar igualmente el padecimiento de cualquier enfermedad de naturaleza infecciosa o hematológica, miopatías o conectivopatías, así como la existencia de insuficiencia cardiaca. El conocimiento de cualquiera de estas entidades debería centrar la atención del clínico sobre una posible relación 
+   - Particular interés tiene el conocimiento de enfermedades metabólicas. 
+      - La obesidad y la diabetes, por ejemplo, son encontradas con frecuencia en el enfermo con esteatohepatitis no alcohólica (EHNA). 
+      - La disfunción tiroidea o la insuficiencia suprarrenal pueden, a su vez, explicar una elevación de transaminasas 
+en el suero. 
+   - La anamnesis debe consignar igualmente el padecimiento de cualquier enfermedad de naturaleza infecciosa o hematológica, miopatías o conectivopatías, así como la existencia de insuficiencia cardiaca. 
+   - El conocimiento de cualquiera de estas entidades debería centrar la atención del clínico sobre una posible relación 
 patogénica entre la enfermedad sistémica y las alteraciones biológicas detectadas. Deben incluirse en este apartado las enfermeda￾des autoinmunes, dada la frecuente asociación entre este tipo de entidades.
 
 - <h3>Fármacos</h3>. El listado de fármacos capaces de provocar alteraciones en las pruebas de “función hepática” es muy amplio y casi la práctica totalidad de los mismos puede alterar la biología hepática, 
